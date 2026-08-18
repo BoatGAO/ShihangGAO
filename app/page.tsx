@@ -47,7 +47,7 @@ const content = {
         period: "Sep 2026 - Present",
         school: "Beijing Institute of Technology",
         degree:
-          "Management Science and Engineering · Information Management and Information Systems",
+          "PhD in Management Science and Engineering · Information Management and Information Systems",
       },
       {
         period: "Sep 2025 - Jun 2026",
@@ -107,7 +107,7 @@ const content = {
       {
         period: "2026年9月 - 現在",
         school: "北京理工大学",
-        degree: "管理科学・工学 · 情報管理・情報システム",
+        degree: "博士課程 · 管理科学・工学 · 情報管理・情報システム",
       },
       {
         period: "2025年9月 - 2026年6月",
@@ -167,7 +167,7 @@ const content = {
       {
         period: "2026年9月 - 至今",
         school: "北京理工大学",
-        degree: "管理科学与工程 · 信息管理与信息系统",
+        degree: "博士研究生 · 管理科学与工程 · 信息管理与信息系统",
       },
       {
         period: "2025年9月 - 2026年6月",
