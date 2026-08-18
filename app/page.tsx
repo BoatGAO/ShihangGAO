@@ -24,11 +24,11 @@ const content = {
       internships: "Internships",
     },
     name: "Shihang GAO",
-    title: "Data Science Student",
-    location: "Hong Kong / Beijing",
-    affiliation: "City University of Hong Kong",
+    title: "PhD Student",
+    location: "Beijing",
+    affiliation: "Beijing Institute of Technology",
     interests:
-      "Research interests span data science, machine learning, deep learning, and intelligent systems.",
+      "Research interests span data science, machine learning, deep learning, intelligent systems, and AI + Mental Health.",
     aboutTitle: "About Me",
     about:
       "I am building an academic profile across data science, machine learning, and intelligent systems, with a mathematical foundation and interdisciplinary training.",
@@ -85,11 +85,11 @@ const content = {
       internships: "インターン",
     },
     name: "Shihang GAO",
-    title: "データサイエンス学生",
-    location: "香港 / 北京",
-    affiliation: "香港城市大学",
+    title: "博士課程学生",
+    location: "北京",
+    affiliation: "北京理工大学",
     interests:
-      "研究関心はデータサイエンス、機械学習、深層学習、知能システムにわたります。",
+      "研究関心はデータサイエンス、機械学習、深層学習、知能システム、AI + メンタルヘルスにわたります。",
     aboutTitle: "自己紹介",
     about:
       "数学を基盤として、データサイエンス、機械学習、知能システムを横断する学術プロフィールを構築しています。",
@@ -145,11 +145,11 @@ const content = {
       internships: "实习经历",
     },
     name: "Shihang GAO",
-    title: "数据科学学生",
-    location: "香港 / 北京",
-    affiliation: "香港城市大学",
+    title: "博士研究生",
+    location: "北京",
+    affiliation: "北京理工大学",
     interests:
-      "研究兴趣涵盖数据科学、机器学习、深度学习与智能系统。",
+      "研究兴趣涵盖数据科学、机器学习、深度学习、智能系统与 AI + Mental Health。",
     aboutTitle: "关于我",
     about:
       "我以数学训练为基础，正在围绕数据科学、机器学习与智能系统方向构建自己的学术经历与研究能力。",
@@ -312,7 +312,7 @@ export default function Home() {
             </li>
             <li>
               <span aria-hidden="true">✉</span>
-              <a href="mailto:">Email</a>
+              <a href="mailto:boatgao@outlook.com">boatgao@outlook.com</a>
             </li>
           </ul>
         </aside>
